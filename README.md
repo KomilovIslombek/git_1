@@ -1,1 +1,1 @@
-i create new branch - featured and first commit
+i create new branch - featured and second commit for master branch
